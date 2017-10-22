@@ -22,6 +22,6 @@
 hs_err_pid*
 
 # intellij idea folders and files
-*.iml
-.idea
-out
+*.iml/
+.idea/
+out/
