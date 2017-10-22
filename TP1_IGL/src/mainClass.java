@@ -5,7 +5,7 @@ import java.util.ArrayList;
 
 /**
  * Created by AMOKRANE Abdennour on 14/10/2017.
- */
+ */ 
 public class mainClass {
     public static void main(String[] args) {
     ArrayList v = new ArrayList();
